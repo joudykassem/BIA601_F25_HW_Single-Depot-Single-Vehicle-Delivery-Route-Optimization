@@ -21,7 +21,7 @@
 ### محتويات المجلد
 ```
 ITE_F25_BIA601_HW/
-├── ITE_F25_BIA601_HW.docx            ← التقرير النهائي (Word)
+├── ITE_F25_BIA601_HW.pdf            ← التقرير النهائي (pdf)
 └── Algorithms&data/
     ├── GA_PSO_ACO.ipynb              ← الكود الكامل: GA وPSO وACO والتجارب والمقارنة
     ├── Delivery_Route_Test_Data.xlsx ← بيانات الاختبار (10 و30 و100 عميل)
@@ -125,7 +125,7 @@ The same problem and the same data are solved with three intelligent algorithms,
 ### Folder contents
 ```
 ITE_F25_BIA601_HW/
-├── ITE_F25_BIA601_HW.docx            ← final report (Word)
+├── ITE_F25_BIA601_HW.pdf          ← final report (pdf)
 └── Algorithms&data/
     ├── GA_PSO_ACO.ipynb              ← full code: GA, PSO, ACO, experiments and comparison
     ├── Delivery_Route_Test_Data.xlsx ← test data (10, 30 and 100 customers)
