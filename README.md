@@ -21,8 +21,6 @@
 ### محتويات المجلد
 ```
 ITE_F25_BIA601_HW/
-├── README.md                         ← هذا الملف
-├── requirements.txt                  ← المكتبات المطلوبة
 ├── ITE_F25_BIA601_HW.docx            ← التقرير النهائي (Word)
 └── Algorithms&data/
     ├── GA_PSO_ACO.ipynb              ← الكود الكامل: GA وPSO وACO والتجارب والمقارنة
@@ -37,8 +35,8 @@ ITE_F25_BIA601_HW/
 ### خطوات التشغيل
 1. ثبّت Python من الموقع الرسمي python.org.
 2. افتح الطرفية (Terminal / CMD) داخل المجلد `ITE_F25_BIA601_HW` وثبّت المكتبات:
-   ```bash
-   pip install -r requirements.txt
+```bash
+pip install numpy pandas matplotlib openpyxl jupyter
    ```
 3. افتح الملف `Algorithms&data/GA_PSO_ACO.ipynb` باستخدام Jupyter أو VS Code:
    ```bash
@@ -127,8 +125,6 @@ The same problem and the same data are solved with three intelligent algorithms,
 ### Folder contents
 ```
 ITE_F25_BIA601_HW/
-├── README.md                         ← this file
-├── requirements.txt                  ← required packages
 ├── ITE_F25_BIA601_HW.docx            ← final report (Word)
 └── Algorithms&data/
     ├── GA_PSO_ACO.ipynb              ← full code: GA, PSO, ACO, experiments and comparison
@@ -143,8 +139,8 @@ ITE_F25_BIA601_HW/
 ### How to run
 1. Install Python from python.org.
 2. Open a terminal in the `ITE_F25_BIA601_HW` folder and install the packages:
-   ```bash
-   pip install -r requirements.txt
+```bash
+pip install numpy pandas matplotlib openpyxl jupyter
    ```
 3. Open `Algorithms&data/GA_PSO_ACO.ipynb` in Jupyter or VS Code:
    ```bash
